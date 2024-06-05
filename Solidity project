@@ -19,7 +19,7 @@ contract ImprovedToken {
 
     // public variables here
     string public Name = "MyTOKEN";
-    string public  expression = "MTA";
+    string public  symbol = "MTA";
     uint public quantity = 0;
 
     // mapping variable here
